@@ -1,5 +1,5 @@
 {
-    "name": "heroku-lavalink",
+    "name": "heroku-lavalink-server",
     "description": "lavalink server",
     "keywords":[
         "lavalink",
