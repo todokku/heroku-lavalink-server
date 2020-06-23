@@ -14,7 +14,7 @@
             "value": "youshallnotpass"
         },
         "JAVA_TOOL_OPTIONS": {
-            "description": "Это устанавливает ОЗУ на максимум *не изменяйте* эту переменную",
+            "description": "Это устанавливает ОЗУ на максимум (не изменяйте) эту переменную",
             "value": "-XX:+UseContainerSupport -Xmx500m -Xss256k -XX:CICompilerCount=2 -Dfile.encoding=UTF-8"
         }
     },
