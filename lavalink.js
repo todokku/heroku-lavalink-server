@@ -12,7 +12,7 @@ if (process.env.PASS) {
 }
 fs.writeFileSync('./application.yml', application)
 
-const download = function (url, dest, cb) { //modified code from https://stackoverflow.com/a/22907134
+const download = function (url, dest, cb) { 
     const file = fs.createWriteStream(dest);
     http.get(url, function (response) {
         response.pipe(file);
