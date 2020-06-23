@@ -7,7 +7,7 @@
         "discord.py",
         "discord.js"
     ],
-    "repository": "https://github.com/KareemRS/heroku-lavalink.git",
+    "repository": "https://github.com/XDopi/heroku-lavalink-server.git",
     "env": {
         "PASS": {
             "description": "The password change this to whatever you want it to be.",
