@@ -9,7 +9,7 @@
 Автоматическая установка перезапустит ваш сервер, поэтому устанавливайте эго на свой страх и риск, автор не несет ответственности за любой ущерб, который может возникнуть в результате автоматической установки!
 
 ### Установка в один клик:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XDopi/heroku-lavalink-server/tree/auto)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XDopi/heroku-lavalink-server/tree/master)
 
 Buildpacks должны быть добавлены автоматически, вы можете изменить переменную `PASS` во время установки, чтобы изменить пароль от сервера.
 
