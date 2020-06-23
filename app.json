@@ -1,6 +1,6 @@
 {
     "name": "heroku-lavalink-server",
-    "description": "lavalink server",
+    "description": "lavalink сервер",
     "keywords":[
         "lavalink",
         "wavelink",
@@ -10,11 +10,11 @@
     "repository": "https://github.com/XDopi/heroku-lavalink-server.git",
     "env": {
         "PASS": {
-            "description": "The password change this to whatever you want it to be.",
+            "description": "Эта переменная отвечает за пароль.",
             "value": "youshallnotpass"
         },
         "JAVA_TOOL_OPTIONS": {
-            "description": "This sets the ram to max *don't edit* this variable",
+            "description": "Это устанавливает ОЗУ на максимум *не изменяйте* эту переменную",
             "value": "-XX:+UseContainerSupport -Xmx500m -Xss256k -XX:CICompilerCount=2 -Dfile.encoding=UTF-8"
         }
     },
